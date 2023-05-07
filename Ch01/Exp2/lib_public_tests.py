@@ -1,5 +1,5 @@
 import numpy as np
-from test_utils import single_test, multiple_test
+from lib_test_utils import single_test, multiple_test
 
          
 def layer_sizes_test(target):
